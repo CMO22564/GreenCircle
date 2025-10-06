@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.d
+*.exe
+
+# DLLs (users should build to get these)
+*.dll
+
+# Log files
+*.txt
+
+# Assets (optional - uncomment if you don't want to track fonts)
+# tuffy.ttf
+
+# Editor/IDE files
+.vscode/
+.vs/
+*.swp
+*~
